@@ -1,4 +1,8 @@
+_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+
 If you follow theses instructions, you will loose money
+
+_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
 
 This is a DEX "decentralized exchange" triangle arbitrage bot that's written in simple JavaScript and is ran in your web browser.
 This is very straightforward easy to read and easy to modify if you wish to do so. It makes all calls with web3.
